@@ -1,0 +1,17 @@
+{
+  "name": "denstuk-fake-sql-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": ["Nodejs", "SQL", "Generator"],
+  "author": "DenStuk",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.4.0",
+    "readline-sync": "^1.4.10",
+    "uuid": "^8.3.2"
+  }
+}
